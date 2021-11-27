@@ -17,7 +17,9 @@ public class ControladorCredito {
     
     private List <Credito> lista;
     private int codigo;
-
+/*
+    *********************
+    */
     /**
      * ControladorLoro
      * inicializa el codigo y la lista como ArrayList.
