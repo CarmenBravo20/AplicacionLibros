@@ -28,6 +28,7 @@ public class ControladorLibroImpreso {
         lista = new ArrayList<>();
         codigo = 1;
     }
+    /**/
     public void create(LibrosImpreso librosImpreso){
         librosImpreso.setCodigo(codigo);
         codigo++;
